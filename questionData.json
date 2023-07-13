@@ -1,0 +1,193 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Quelle est votre plus grande peur ?",
+      "tags": ["peur", "émotions", "introspection"],
+      "help": "Cette question te demande quelle chose te fait le plus peur. Il peut s'agir d'un animal, d'une situation ou même d'une idée. Réfléchis à ce qui te fait ressentir de l'anxiété ou de l'inquiétude."
+    },
+    {
+      "id": 2,
+      "question": "Quel est votre rêve le plus fou ?",
+      "tags": ["rêve", "aspirations", "imagination"],
+      "help": "Cette question te demande de penser à ton rêve le plus audacieux, quelque chose que tu aimerais accomplir même s'il semble impossible. Laisse libre cours à ton imagination et partage ton rêve le plus fou."
+    },
+    {
+      "id": 3,
+      "question": "Quelle est votre plus grande réalisation jusqu'à présent ?",
+      "tags": ["réalisation", "accomplissement", "fierté"],
+      "help": "Cette question te demande de réfléchir à quelque chose que tu as réussi à réaliser et dont tu es très fier. Il peut s'agir d'un projet, d'un événement marquant ou même d'un moment personnel. Partage ta plus grande réalisation jusqu'à présent."
+    },
+    {
+      "id": 4,
+      "question": "Qu'est-ce qui vous fait sentir vivant(e) ?",
+      "tags": ["vitalité", "passions", "émotions"],
+      "help": "Cette question te demande ce qui te fait te sentir vivant(e) et plein(e) d'énergie. Pense à des activités, des expériences ou des moments qui te font ressentir une forte sensation de vitalité et de joie de vivre."
+    },
+
+    {
+      "id": 5,
+      "question": "Quels sont vos valeurs les plus importantes ?",
+      "tags": ["valeurs", "principes", "croyances"],
+      "help": "Cette question te demande de réfléchir aux valeurs qui sont les plus importantes pour toi. Qu'est-ce qui guide tes actions, tes décisions et tes relations avec les autres ? Pense à ce qui compte le plus pour toi."
+    },
+
+    {
+      "id": 6,
+      "question": "Comment décririez-vous votre style de communication ?",
+      "tags": ["communication", "relations", "expression"],
+      "help": "Cette question te demande de décrire ton style de communication, c'est-à-dire comment tu te expresses et interagis avec les autres. Réfléchis à ta façon de communiquer verbalement, non verbalement et à travers tes choix de mots."
+    },
+
+    {
+      "id": 7,
+      "question": "Quel est votre plus grand défi personnel ?",
+      "tags": ["défi", "croissance personnelle", "obstacles"],
+      "help": "Cette question te demande de réfléchir à ton plus grand défi personnel, quelque chose que tu essaies de surmonter ou d'améliorer. Pense à un aspect de toi-même ou de ta vie qui représente un défi pour toi."
+    },
+
+    {
+      "id": 8,
+      "question": "Qu'est-ce qui vous motive à atteindre vos objectifs ?",
+      "tags": ["motivation", "objectifs", "réussite"],
+      "help": "Cette question te demande ce qui te pousse à atteindre tes objectifs. Qu'est-ce qui te donne de la motivation, de la détermination et de la persévérance pour poursuivre ce que tu veux accomplir dans la vie ?"
+    },
+
+    {
+      "id": 9,
+      "question": "Comment gérez-vous le stress ?",
+      "tags": ["stress", "gestion du stress", "équilibre"],
+      "help": "Cette question te demande comment tu fais face au stress. Réfléchis aux stratégies, aux activités ou aux approches que tu utilises pour gérer le stress et maintenir un équilibre émotionnel."
+    },
+
+    {
+      "id": 10,
+      "question": "Quel est votre plus grand trait de caractère positif ?",
+      "tags": ["traits de caractère", "positivité", "forces"],
+      "help": "Cette question te demande d'identifier ton plus grand trait de caractère positif. Pense à tes qualités personnelles, tes forces et tes aspects positifs qui te définissent."
+    },
+
+    {
+      "id": 11,
+      "question": "Quel est votre plus grand trait de caractère à améliorer ?",
+      "tags": [
+        "traits de caractère",
+        "amélioration",
+        "développement personnel"
+      ],
+      "help": "Cette question te demande de réfléchir à un aspect de ton caractère que tu aimerais améliorer. Pense à une qualité que tu souhaites développer ou à un comportement que tu veux changer pour devenir une meilleure version de toi-même."
+    },
+
+    {
+      "id": 12,
+      "question": "Quelle est votre approche face aux conflits ?",
+      "tags": ["conflits", "résolution", "communication"],
+      "help": "Cette question te demande comment tu abordes les conflits et les désaccords avec les autres. Réfléchis à ta façon de gérer les situations conflictuelles et comment tu cherches à les résoudre."
+    },
+
+    {
+      "id": 13,
+      "question": "Qu'est-ce qui vous rend unique ?",
+      "tags": ["unicité", "individualité", "identité"],
+      "help": "Cette question te demande ce qui te rend unique en tant qu'individu. Réfléchis à tes caractéristiques, tes expériences et tes qualités qui te distinguent des autres."
+    },
+
+    {
+      "id": 14,
+      "question": "Quel est votre plus grand regret ?",
+      "tags": ["regret", "réflexion", "acceptation"],
+      "help": "Cette question te demande de réfléchir à ton plus grand regret, quelque chose que tu aurais aimé faire différemment ou ne pas faire du tout. Pense à une expérience passée que tu souhaiterais changer si tu le pouvais."
+    },
+
+    {
+      "id": 15,
+      "question": "Comment vous voyez-vous dans cinq ans ?",
+      "tags": ["avenir", "objectifs", "projection"],
+      "help": "Cette question te demande de te projeter dans le futur et d'imaginer où tu te vois dans cinq ans. Pense à tes objectifs, tes aspirations et les résultats que tu souhaites obtenir dans ta vie."
+    },
+
+    {
+      "id": 16,
+      "question": "Quel est votre plus grand désir dans la vie ?",
+      "tags": ["désir", "aspirations", "réalisation personnelle"],
+      "help": "Cette question te demande de réfléchir à ton plus grand désir, ce que tu souhaites le plus réaliser ou obtenir dans ta vie. Pense à ce qui te passionne profondément et ce qui te donne un sentiment de but."
+    },
+
+    {
+      "id": 17,
+      "question": "Comment vous définiriez-vous en tant qu'ami(e) ?",
+      "tags": ["amitié", "relations", "soutien"],
+      "help": "Cette question te demande de te décrire en tant qu'ami(e). Quelles sont les qualités que tu apportes à tes amitiés et comment tu soutiens tes proches ? Réfléchis à ton rôle en tant qu'ami(e) et à ce que tu offres aux autres."
+    },
+
+    {
+      "id": 18,
+      "question": "Qu'est-ce qui vous rend vulnérable ?",
+      "tags": ["vulnérabilité", "émotions", "ouverture"],
+      "help": "Cette question te demande ce qui te rend vulnérable, les situations ou les émotions qui te mettent dans un état d'ouverture et de sensibilité. Réfléchis à ce qui te touche profondément et ce qui te rend plus sensible."
+    },
+
+    {
+      "id": 19,
+      "question": "Quelles sont vos passions profondes ?",
+      "tags": ["passions", "intérêts", "hobbies"],
+      "help": "Cette question te demande de réfléchir à tes passions profondes, les domaines qui t'inspirent et qui captivent ton intérêt. Pense à ce qui te fait vibrer et te donne de l'énergie lorsque tu t'y investis."
+    },
+
+    {
+      "id": 20,
+      "question": "Quelle est votre plus grande source d'inspiration ?",
+      "tags": ["inspiration", "influence", "modèles"],
+      "help": "Cette question te demande de réfléchir à ce qui te motive et t'inspire dans la vie. Quelle personne, quelle expérience ou quelle idée exerce une grande influence sur toi et te pousse à aller de l'avant ?"
+    },
+
+    {
+      "id": 21,
+      "question": "Comment réagissez-vous face à l'échec ?",
+      "tags": ["échec", "résilience", "apprentissage"],
+      "help": "Cette question te demande comment tu réagis lorsque tu fais face à l'échec ou à des revers. Réfléchis à ton attitude et à tes comportements face à l'adversité, et comment tu en tires des leçons pour grandir."
+    },
+
+    {
+      "id": 22,
+      "question": "Quel est votre plus grand talent caché ?",
+      "tags": ["talent", "potentiel", "découverte"],
+      "help": "Cette question te demande de réfléchir à un talent que tu possèdes mais qui est peut-être méconnu. Pense à une compétence ou une capacité particulière que tu as et dont peu de gens sont conscients."
+    },
+
+    {
+      "id": 23,
+      "question": "Comment vous décririez-vous en tant que partenaire romantique ?",
+      "tags": ["relations amoureuses", "romance", "compatibilité"],
+      "help": "Cette question te demande de te décrire en tant que partenaire romantique. Réfléchis à tes qualités, tes attentes et la façon dont tu te comportes dans une relation amoureuse."
+    },
+
+    {
+      "id": 24,
+      "question": "Qu'est-ce qui vous fait ressentir de la gratitude ?",
+      "tags": ["gratitude", "reconnaissance", "appréciation"],
+      "help": "Cette question te demande ce qui te fait ressentir de la gratitude, les personnes, les expériences ou les petites choses de la vie pour lesquelles tu es reconnaissant(e). Pense à ce qui t'apporte de la joie et de la reconnaissance."
+    },
+
+    {
+      "id": 25,
+      "question": "Quelle est votre relation avec l'argent ?",
+      "tags": ["argent", "finances", "attitudes"],
+      "help": "Cette question te demande de réfléchir à ta relation avec l'argent. Quelles sont tes attitudes, tes croyances et tes comportements par rapport à l'argent ? Réfléchis à ta façon de le gérer, de le dépenser et de l'économiser."
+    },
+
+    {
+      "id": 26,
+      "question": "Comment vous adaptez-vous au changement ?",
+      "tags": ["adaptabilité", "flexibilité", "résilience"],
+      "help": "Cette question te demande comment tu te comportes face au changement. Réfléchis à ta capacité à t'adapter, à être flexible et à faire face aux nouvelles situations et aux transitions."
+    },
+
+    {
+      "id": 27,
+      "question": "Quel est votre plus grand conseil pour une vie épanouie ?",
+      "tags": ["conseils", "bonheur", "épanouissement"],
+      "help": "Cette question te demande de partager ton plus grand conseil pour vivre une vie épanouie et heureuse. Pense à une leçon de vie que tu as apprise et que tu souhaites partager avec les autres."
+    }
+  ]
+}
